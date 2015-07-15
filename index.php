@@ -24,8 +24,7 @@
 			<ul>
 				<li> Login/Register for an eBay user account</li>
 				<li> Pick a Category your item will go in</li>
-				<li> Give item a title</li>
-				<li> Describe item</li>
+				<li> Title and Describe item </li>
 				<</ul>
 		<img src="images/datauseEbaylisting.png" alt="Ease of Use Map" style="width:750 px;height:500px; align-content: center">
 	</body>
