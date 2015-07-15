@@ -2,7 +2,7 @@ body {
 		background-color: white; text-align: center;
 }
 h1 { color: forestgreen; border-style: solid;
-		border-bottom-width: thin;
+		border-bottom-width: medium; margin-outside: 25px;
 		align-content: center;
 }
 h2 { color: black; align-content: center;
