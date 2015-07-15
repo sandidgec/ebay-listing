@@ -27,7 +27,7 @@
 				<li> Give item a title</li>
 				<li> Describe item</li>
 				<</ul>
-		<img src="images/datauseEbaylisting.png" alt="Ease of Use Map" style="width:304 px;height:228px; align-content: center">
+		<img src="images/datauseEbaylisting.png" alt="Ease of Use Map" style="width:750 px;height:500px; align-content: center">
 	</body>
 </html>
 
