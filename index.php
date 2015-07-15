@@ -5,7 +5,6 @@
 			<meta charset="UTF-8">
 			<title> Ebay Listing Use Cases </title>
 		</head>
-	<header> List an Item on eBay</header>
 	<body>
 		<div>
 		<h1> <span> Main Use Goal: List an Item for Sale on eBay </span> </h1>
