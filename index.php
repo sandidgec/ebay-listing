@@ -3,11 +3,11 @@
 		<head>
 			<link rel="stylesheet" type="text/css" href="mystyle.css">
 			<meta charset="UTF-8">
-			<title> <h1> Ebay Listing Use Cases </h1> </title>
+			<title> Ebay Listing Use Cases </title>
 		</head>
 	<body>
 		<div>
-		<h2> Main Use Goal: List an Item for Sale on eBay </h2>
+		<h1> Main Use Goal: List an Item for Sale on eBay </h1>
 		</div>
 		<h2> Typical Persona </h2>
 			<ul>
