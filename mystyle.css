@@ -3,7 +3,8 @@ body {
 }
 span { color: forestgreen; border-style: solid;
 		border-bottom-width: medium;
-		align-content: center; padding-bottom: 40px;
+		align-content: center; padding-right: 25px;
+		padding-left: 25px;
 }
 h2 { color: black; align-content: center;
 }
