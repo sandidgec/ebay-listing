@@ -5,3 +5,5 @@ h1 { color: forestgreen; align-content: center;
 }
 h2 { color: black; align-content: center;
 }
+ul {list-style-type: none
+}
