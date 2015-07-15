@@ -11,5 +11,5 @@ h2 { color: black; align-content: center;
 ul {list-style-type: none; font-family: monospace; font-size: 12pt;
 }
 p {font-family: monospace; font-size: 12pt;
-	width: 780px; text-align: center; align-content: center;
+ text-align: center; align-content: center;
 }
