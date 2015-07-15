@@ -1,19 +1,32 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: sandidgec
- * Date: 7/14/2015
- * Time: 8:51 PM
- */
-
 <!DOCTYPE html>
-<html>
-	<head lang="en">
-		<link rel="ebay-listing\mystyle.css" type="text/css" href="mystyle.css">
-		<meta charset="UTF-8">
-		<title> <h1> Ebay-Listing </h1> </title>
-	</head>
+<html Lang="en">
+		<head>
+			<link rel="C:\Users\sandidgec\Desktop\bootcamp\git\ebay-listing" type="text/css" href="mystyle.css">
+			<meta charset="UTF-8">
+			<title> <h1> Ebay Listing Use Cases </h1> </title>
+		</head>
 	<body>
-
+		<div>
+		<h2> Main Use Goal: List an Item for Sale on eBay </h2>
+		</div>
+		<h2> Typical Persona </h2>
+			<ul>
+				<li> Adult searching a large buyer market for an item </li>
+				<li> Seeking ease of use and convenience with minimal time commitment to sell an item </li>
+				<li> Appreciates streamlined ability to list and complete sell.
+			</ul>
+		<h2> Frustrations </h2>
+			<ul>
+				<li> Time consuming process of user registration. </li>
+				<li> The time and detail needed to input in order to list an item for sale. </li>
+				</ul>
+		<h2> Steps to Sell an Item on Ebay</h2>
+			<ul>
+				<li> Login/Register for an eBay user account</li>
+				<li> Pick a Category your item will go in</li>
+				<li> Give item a title</li>
+				<li> Describe item</li>
+				<</ul>
 	</body>
 </html>
+
