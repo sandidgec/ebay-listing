@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html Lang="en">
 		<head>
-			<link rel="C:\Users\sandidgec\Desktop\bootcamp\git\ebay-listing" type="text/css" href="mystyle.css">
+			<link rel="stylesheet" type="text/css" href="mystyle.css">
 			<meta charset="UTF-8">
 			<title> <h1> Ebay Listing Use Cases </h1> </title>
 		</head>
