@@ -7,7 +7,7 @@
 		</head>
 	<body>
 		<div>
-		<h1> Main Use Goal: List an Item for Sale on eBay </h1>
+		<h1> <span> Main Use Goal: List an Item for Sale on eBay </span> </h1>
 		</div>
 		<h2> Typical Persona </h2>
 			<ul>

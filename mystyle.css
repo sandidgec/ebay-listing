@@ -1,8 +1,8 @@
 body {
 		background-color: white; text-align: center;
 }
-h1 { color: forestgreen; border-style: solid;
-		border-bottom-width: medium; margin-outside: 100px;
+span { color: forestgreen; border-style: solid;
+		border-bottom-width: medium;
 		align-content: center;
 }
 h2 { color: black; align-content: center;
