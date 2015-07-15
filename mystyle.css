@@ -8,5 +8,5 @@ span { color: forestgreen; border-style: solid;
 }
 h2 { color: black; align-content: center;
 }
-ul {list-style-type: none; font-family: inherit; font-size: large;
+ul {list-style-type: none; font-family: monospace; font-size: large;
 }
