@@ -10,11 +10,9 @@
 		<h1> <span> Main Use Goal: List an Item for Sale on eBay </span> </h1>
 		</div>
 		<h2> Typical Persona </h2>
-			<ul>
-				<li> Adult searching a large buyer market for an item </li>
-				<li> Seeking ease of use and convenience with minimal time commitment to sell an item </li>
-				<li> Appreciates streamlined ability to list and complete sell.
-			</ul>
+			<p> Adult searching a large buyer market for an item who seeks
+			ease of use and convenience with minimal time commitment to see an item.
+			Appreciates a streamlined ability to list, describe and sell. </p>
 		<h2> Frustrations </h2>
 			<ul>
 				<li> Time consuming process of user registration. </li>
