@@ -19,11 +19,13 @@
 				<li> The time and detail needed to input in order to list an item for sale. </li>
 				</ul>
 		<h2> Steps to Sell an Item on Ebay</h2>
-			<ul>
-				<li> Login/Register for an eBay user account</li>
-				<li> Pick a Category your item will go in</li>
-				<li> Title and Describe item </li>
-				</ul>
+			<p>
+				 Login/Register for an eBay user account by providing email address, name, and creating a user name.
+
+				In order to sell an item you will pick a category your item will go in.
+
+				You will then title your item, give it a description , price and add pictures.
+				</p>
 		<img src="images/datadesign.svg" alt="Ebay Listing - Entity Relationship Map " style="width:750 px;height:500px; align-content: center">
 	</body>
 </html>
