@@ -1,5 +1,5 @@
 body {
-		text-align: center; background-image: image("images/paperbackground.jpg") repeat;
+		text-align: center; background-image:image("/images/paperbackground.jpg");
 }
 span.headtext { color: forestgreen;
 		border-style: solid;
