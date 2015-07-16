@@ -24,7 +24,7 @@
 				<li> Pick a Category your item will go in</li>
 				<li> Title and Describe item </li>
 				</ul>
-		<img src="images/datadesignebaylisting" alt="Ebay Listing - Entity Relationship Map " style="width:750 px;height:500px; align-content: center">
+		<img src="images/datauseEbaylisting.png" alt="Ebay Listing - Entity Relationship Map " style="width:750 px;height:500px; align-content: center">
 	</body>
 </html>
 
