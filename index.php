@@ -29,15 +29,6 @@
 </html>
 
 
--------------HOMEWORK 7/16-----------------
-
-PERSONAL WEBSITE PROJECT
-
-	MILESTONE 1 - Planning (create new project on github and phpstorm) Directory
-
-Read through project overview - milestone 1
-
-DUE THU 7/23
 
 
 
