@@ -1,16 +1,24 @@
 body {
 		text-align: center;
 }
-span { color: forestgreen; border-style: solid;
+.headtext { color: forestgreen;
+		border-style: solid;
 		border-bottom-width: medium;
-		align-content: center; padding-right: 40px;
-		padding-left: 40px;background-color: lightgray;
+		align-content: center;
+		padding-right: 40px;
+		padding-left: 40px;
+		background-color: lightgray;
 		letter-spacing: 3px;
 }
-h2 { color: black; align-content: center;
+h2 { 	color: black;
+		align-content: center;
 }
-ul {list-style-type: none; font-family: monospace; font-size: 16pt;
+ul {	list-style-type: none;
+		font-family: monospace;
+		font-size: 16pt;
 }
-p {font-family: monospace; font-size: 16pt;
-	width:80%; margin: auto;
+p {	font-family: monospace;
+		font-size: 16pt;
+		width:80%;
+		margin: auto;
 }
