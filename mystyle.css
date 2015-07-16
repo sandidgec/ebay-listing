@@ -1,5 +1,5 @@
 body {
-		text-align: center;
+		text-align: center;background-image: image images\paperbackground.jpg;
 }
 span { color: forestgreen; border-style: solid;
 		border-bottom-width: medium;
