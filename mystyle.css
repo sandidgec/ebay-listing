@@ -23,4 +23,6 @@ p {	font-family: monospace;
 		margin: auto;
 }
 
-
+.pad-20 {
+	padding: 20px;
+}

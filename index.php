@@ -25,7 +25,7 @@
 				In order to sell an item you will pick a category your item will go in.
 				You will then title your item, give it a description, price and add pictures.
 				</p>
-		<img src="images/datadesign.svg" alt="Ebay Listing - Entity Relationship Map " style="width:750 px;height:500px; align-content: center">
+		<img class="pad-20" src="images/datadesign.svg" alt="Ebay Listing - Entity Relationship Map" />
 	</body>
 </html>
 
