@@ -1,5 +1,5 @@
 body {
-		text-align: center;
+		text-align: center; background-image: image(/images/paperbackground.jpg) repeat;
 }
 span.headtext { color: forestgreen;
 		border-style: solid;
@@ -22,3 +22,4 @@ p {	font-family: monospace;
 		width:80%;
 		margin: auto;
 }
+
