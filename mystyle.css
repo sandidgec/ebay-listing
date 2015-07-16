@@ -1,7 +1,7 @@
 body {
 		text-align: center;
 }
-.headtext { color: forestgreen;
+span.headtext { color: forestgreen;
 		border-style: solid;
 		border-bottom-width: medium;
 		align-content: center;
