@@ -9,7 +9,6 @@
 		<div>
 		<h1> <span class="headtext"> Main Use Goal: List an Item for Sale on eBay </span> </h1>
 		</div>
-		<div id="pageborder"
 		<h2> Typical Persona </h2>
 			<p> Adult searching a large buyer market for an item who seeks
 			ease of use and convenience with minimal time commitment to see an item.
