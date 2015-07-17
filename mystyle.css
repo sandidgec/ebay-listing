@@ -25,3 +25,8 @@ p {	font-family: monospace;
 .pad-40 {
 	padding: 40px;
 }
+.medborder {
+		border-style: solid;
+		border-width: thin;
+}
+
