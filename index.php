@@ -15,11 +15,10 @@
 			ease of use and convenience with minimal time commitment to see an item.
 			Appreciates a streamlined ability to list, describe and sell. </p>
 		<h2> Frustrations </h2>
-			<ul> <div id="medborder"
+			<ul>
 				<li> Time consuming process of user registration. </li>
 				<li> The time and detail needed to input in order to list an item for sale.</li>
 				<li>Deciding on a proper category and price.</li>
-				</div>
 				</ul>
 		<h2> Steps to Sell an Item on Ebay</h2>
 			<p>
