@@ -6,7 +6,6 @@
 			<title> Ebay Listing Use Cases </title>
 		</head>
 	<body>
-		<div id="pageborder">
 		<div>
 		<h1> <span class="headtext"> Main Use Goal: List an Item for Sale on eBay </span> </h1>
 		</div>
@@ -27,7 +26,6 @@
 				You will then title your item, give it a description, price and add pictures.
 				</p>
 		<img class="pad-40" src="images/datadesign.svg" alt="Ebay Listing - Entity Relationship Map" />
-		</div>
 	</body>
 </html>
 
