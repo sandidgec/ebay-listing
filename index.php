@@ -6,6 +6,7 @@
 			<title> Ebay Listing Use Cases </title>
 		</head>
 	<body>
+		<div id="pageborder">
 		<div>
 		<h1> <span class="headtext"> Main Use Goal: List an Item for Sale on eBay </span> </h1>
 		</div>
