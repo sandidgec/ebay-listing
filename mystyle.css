@@ -1,8 +1,9 @@
 body {
-		text-align: center; background-image: url(images/paperbackground.jpg);
-		border-style: solid;
-		padding: 40px 30px 40px 30px;
-		border-color: deepskyblue;
+	border-style: solid;
+	padding: 40px 30px 40px 30px;
+	border-color: deepskyblue;
+	text-align: center;
+	background-image: url(images/paperbackground.jpg);
 }
 span.headtext { color: 545354;
 		border-style: solid;
