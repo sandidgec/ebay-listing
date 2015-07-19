@@ -1,5 +1,8 @@
 body {
 		text-align: center; background-image: url(images/paperbackground.jpg);
+		border-style: solid;
+		padding: 40px 30px 40px 30px;
+		border-color: deepskyblue;
 }
 span.headtext { color: 545354;
 		border-style: solid;
