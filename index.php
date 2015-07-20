@@ -29,13 +29,13 @@
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
 		<p>
 		CREATE TABLE profile (<br />
-		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
-		email VARCHAR(128) NOT NULL,
-		phone VARCHAR(32),
-		atHandle VARCHAR(32),
-		UNIQUE(atHandle),
-		UNIQUE(email),
-		PRIMARY KEY(profileId)
+		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
+		email VARCHAR(128) NOT NULL,<br />
+		phone VARCHAR(32),<br />
+		atHandle VARCHAR(32),<br />
+		UNIQUE(atHandle),<br />
+		UNIQUE(email),<br />
+		PRIMARY KEY(profileId)<br />
 		);
 		</p>
 	</body>
