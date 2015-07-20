@@ -27,6 +27,7 @@
 				You will then title your item, give it a description, price and add picture(s).
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
+
 		<p>CREATE TABLE profile (
 			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
 			email VARCHAR(128) NOT NULL,
@@ -36,7 +37,9 @@
 			UNIQUE(email),
 			PRIMARY KEY(profileId)
 			);
+			</p>
 
+		<p>
 			CREATE TABLE tweet (
 			tweetId INT UNSIGNED AUTO_INCREMENT NOT NULL,
 			profileId INT UNSIGNED NOT NULL,
@@ -46,7 +49,9 @@
 			FOREIGN KEY(profileId) REFERENCES profile(profileId),
 			PRIMARY KEY(tweetId)
 			);
+			</p>
 
+		<p>
 			CREATE TABLE favorite (
 			profileId INT UNSIGNED NOT NULL,
 			tweetId INT UNSIGNED NOT NULL,
