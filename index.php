@@ -24,7 +24,7 @@
 			<p>
 				 Login/Register for an eBay user account by providing email address, name, and creating a username.
 				In order to sell an item you will pick a category your item will go in.
-				You will then title your item, give it a description, price and add pictures.
+				You will then title your item, give it a description, price and add picture(s).
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
 	</body>
