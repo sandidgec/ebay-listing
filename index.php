@@ -28,7 +28,7 @@
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
 		<p>
-		CREATE TABLE profile (
+		CREATE TABLE profile (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
 		email VARCHAR(128) NOT NULL,
 		phone VARCHAR(32),
