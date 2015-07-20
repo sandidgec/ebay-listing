@@ -26,7 +26,7 @@
 				In order to sell an item you will pick a category your item will go in.
 				You will then title your item, give it a description, price and add picture(s).
 				</p>
-		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
+		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram" />
 		<p>
 		CREATE TABLE profile (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
