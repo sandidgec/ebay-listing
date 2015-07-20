@@ -28,39 +28,6 @@
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
 
-		<p>CREATE TABLE profile (
-			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
-			email VARCHAR(128) NOT NULL,
-			phone VARCHAR(32),
-			atHandle VARCHAR(32),
-			UNIQUE(atHandle),
-			UNIQUE(email),
-			PRIMARY KEY(profileId)
-			);
-			</p>
-
-		<p>
-			CREATE TABLE tweet (
-			tweetId INT UNSIGNED AUTO_INCREMENT NOT NULL,
-			profileId INT UNSIGNED NOT NULL,
-			tweetContent VARCHAR(140) NOT NULL,
-			tweetDate DATETIME NOT NULL,
-			INDEX(profileId),
-			FOREIGN KEY(profileId) REFERENCES profile(profileId),
-			PRIMARY KEY(tweetId)
-			);
-			</p>
-
-		<p>
-			CREATE TABLE favorite (
-			profileId INT UNSIGNED NOT NULL,
-			tweetId INT UNSIGNED NOT NULL,
-			favoriteDate DATETIME NOT NULL,
-			INDEX(profileId),
-			INDEX(tweetId),
-			FOREIGN KEY(profileId) REFERENCES profile(profileId),
-			FOREIGN KEY(tweetId) REFERENCES tweet(tweetId)
-			); </p>
 	</body>
 </html>
 
