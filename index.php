@@ -28,6 +28,17 @@
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
 
+		<ul>
+		<li>CREATE TABLE profile (
+			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
+			email VARCHAR(128) NOT NULL,
+			phone VARCHAR(32),
+			atHandle VARCHAR(32),
+			UNIQUE(atHandle),
+			UNIQUE(email),
+			PRIMARY KEY(profileId) </li>
+		</ul>
+
 	</body>
 </html>
 
