@@ -27,7 +27,7 @@
 				You will then title your item, give it a description, price and add picture(s).
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
-		<p id="tables">
+		<p>
 		CREATE TABLE profile (
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,
 		email VARCHAR(128) NOT NULL,
