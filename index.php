@@ -26,7 +26,7 @@
 				In order to sell an item you will pick a category your item will go in.
 				You will then title your item, give it a description, price and add pictures.
 				</p>
-		<img class="pad-40" src="images/datadesign.svg" alt="Ebay Listing - Data Design SVG" />
+		<img class="pad-40" src="images/datauseEbay.svg" alt="Ebay Listing - Data Design SVG" />
 	</body>
 </html>
 
