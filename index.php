@@ -15,11 +15,11 @@
 			a busy professional who spends very little time online that isn't work related and he
 			appreciates a streamlined ability to list, describe and sell his phone in a timely manner. </p>
 		<h2> User Frustrations </h2>
-			<ul>
-				<li> Time consuming process of user registration. </li>
-				<li> The time and detail needed to input in order to list an item for sale.</li>
-				<li>Deciding on a proper category and price.</li>
-				</ul>
+			<p>
+				 Time consuming process of user registration.
+				 The time and detail needed to input in order to list an item for sale.
+				 Deciding on a proper category and price.
+				</p>
 		<h2> Steps to Sell an Item on Ebay</h2>
 			<p>
 				 Login/Register for an eBay user account by providing email address, name, and creating a username.
