@@ -24,6 +24,7 @@ p {	font-family: monospace;
 
 .pad-40 {
 	padding: 40px;
+	align-content: center;
 }
 
 div.pageborder {border: 5px solid darkgrey
