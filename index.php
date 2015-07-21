@@ -27,7 +27,6 @@
 				You will then title your item, give it a description, price and add picture(s).
 				</p>
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram - Ebay" />
-	.threecolumns {
 		<p>
 		CREATE TABLE profile (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
@@ -48,7 +47,6 @@
 		UNIQUE(email),<br />
 		PRIMARY KEY(profileId)<br />
 
-		}
 	</body>
 </html>
 
