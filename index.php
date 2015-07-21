@@ -29,7 +29,7 @@
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram - Ebay" />
 
 		<article>
-		<p>
+
 		CREATE TABLE profile (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
 		email VARCHAR(128) NOT NULL,<br />
@@ -39,7 +39,7 @@
 		UNIQUE(email),<br />
 		PRIMARY KEY(profileId)<br />
 		);
-		</p>
+
 		CREATE TABLE category (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
 		email VARCHAR(128) NOT NULL,<br />
