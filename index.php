@@ -33,7 +33,7 @@
 				<ul>
 				<li> Navigate to ebay.com</li>
 					<li> Register for new account or login existing account</li>
-					<li>Sell Item  </li>
+					<li> Navigate to "Sell Item"  </li>
 					<li> Choose Category Title</li>
 					<li> Describe Item </li>
 					<li> Price Item</li>
