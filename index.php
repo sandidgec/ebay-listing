@@ -43,9 +43,9 @@
 
 		CREATE TABLE category (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
-		email VARCHAR(128) NOT NULL,<br />
+		category VARCHAR(32) NOT NULL,<br />
 		phone VARCHAR(32),<br />
-		atHandle VARCHAR(32),<br />
+		userName VARCHAR(32),<br />
 		UNIQUE(userName),<br />
 		UNIQUE(email),<br />
 		PRIMARY KEY(profileId)<br />
@@ -54,9 +54,9 @@
 
 			CREATE TABLE description (<br />
 			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
-			email VARCHAR(128) NOT NULL,<br />
-			phone VARCHAR(32),<br />
-			atHandle VARCHAR(32),<br />
+			description VARCHAR(255) NOT NULL,<br />
+			price VARCHAR(16),<br />
+			userName VARCHAR(32),<br />
 			UNIQUE(userName),<br />
 			UNIQUE(email),<br />
 			PRIMARY KEY(profileId)<br />
