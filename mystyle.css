@@ -38,4 +38,7 @@ article {
 	-moz-column-width:120px;
 	column-width: 120px;
 	font-size: 14px;
+	border-style: solid;
+	border-color: black;
+	border-width: medium;
 }
