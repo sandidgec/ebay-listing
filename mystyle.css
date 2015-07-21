@@ -37,4 +37,5 @@ article {
 	-webkit-column-width: 150px;
 	-moz-column-width:150px;
 	column-width: 150px;
+	font-size: small;
 }
