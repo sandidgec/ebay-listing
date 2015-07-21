@@ -38,16 +38,26 @@
 		UNIQUE(atHandle),<br />
 		UNIQUE(email),<br />
 		PRIMARY KEY(profileId)<br />
-		);
+		); <br />
+
 
 		CREATE TABLE category (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
 		email VARCHAR(128) NOT NULL,<br />
 		phone VARCHAR(32),<br />
 		atHandle VARCHAR(32),<br />
-		UNIQUE(atHandle),<br />
+		UNIQUE(userName),<br />
 		UNIQUE(email),<br />
 		PRIMARY KEY(profileId)<br />
+
+			CREATE TABLE description (<br />
+			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
+			email VARCHAR(128) NOT NULL,<br />
+			phone VARCHAR(32),<br />
+			atHandle VARCHAR(32),<br />
+			UNIQUE(userName),<br />
+			UNIQUE(email),<br />
+			PRIMARY KEY(profileId)<br />
 			</article>
 
 	</body>
