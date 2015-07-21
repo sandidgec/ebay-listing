@@ -39,6 +39,7 @@ article {
 	column-width: 120px;
 	column-rule-style: solid;
 	column-rule-color: black;
+	column-rule-width: 2px;
 	font-size: 14px;
 	border-style: solid;
 	border-color: black;
