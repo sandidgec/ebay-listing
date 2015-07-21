@@ -30,5 +30,8 @@ p {	font-family: monospace;
 div.pageborder {border: 5px solid darkgrey
 }
 
-
+.threecolumns { column-count: 3;
+			column-gap: 40px;
+			column-width: 150px;
+}
 
