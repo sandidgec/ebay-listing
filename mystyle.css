@@ -10,7 +10,7 @@ span.headtext { color: 545354;
 		letter-spacing: 2px;
 }
 h2 { 	color: black;
-		align-content: center;
+		text-align: center;
 }
 ul {	list-style-type: none;
 		font-family: monospace;
