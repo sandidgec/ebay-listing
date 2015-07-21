@@ -10,10 +10,20 @@
 		<h1> <span class="headtext"> Data Design Project: Ebay Sale</span> </h1>
 		</div>
 		<h2> Typical User Persona </h2>
-			<p> A middle-aged man looking to sell a cell phone since he recently upgraded. He seeks
-			ease of use and convenience with minimal time commitment to sell his item. He's
-			a busy professional who spends very little time online that isn't work related and he
-			appreciates a streamlined ability to list, describe and sell his phone in a timely manner. </p>
+			<p> Tom, 35 is looking to sell an iPad since he recently upgraded. He seeks
+				ease of use and convenience with minimal time commitment to sell his item. He's
+				a busy professional who is comfortable with tech but doesn't work in a tech related field. He spends very
+				little time online that isn't work related and he appreciates a streamlined ability to list,
+				describe and sell his items in a timely manner. </p>
+		<h2>
+			<p> Use Case
+				An average internet user, Tom mostly consumes news and other information on the web via his desktop computer
+				that is an outdated windows machine but he finds it comfortable and more than powerful enough to allow him
+				to do the tasks in front of him. Besides, Tom prefers his tablet when it comes to checking emails and
+				reading web content or ebooks. He seldom posts or otherwise contributes to the web but uses the internet
+				for convenience whenever possible. </p>
+		</h2>
+
 		<h2> User Frustrations </h2>
 			<p>
 				 Time consuming process of user registration.
