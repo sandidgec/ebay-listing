@@ -22,23 +22,24 @@
 				reading web content or ebooks. He seldom posts or otherwise contributes to the web but uses the internet
 				for convenience whenever possible</p>
 
+		<h2> User Frustrations </h2>
+		<p>
+			Time consuming process of user registration.
+			The time and detail needed to input in order to list an item for sale.
+			Deciding on a proper category and price.
+		</p>
+
 		<h2> Use Case Goal: Sell Ipad on eBay </h2>
 				<ul>
 				<li> Navigate to ebay.com</li>
 					<li> Register for new account or login existing account</li>
 					<li>Sell Item  </li>
-					<li> Choose Category of Item</li>
+					<li> Choose Category Title</li>
 					<li> Describe Item </li>
 					<li> Price Item</li>
 				</ul>
 				.
 
-		<h2> User Frustrations </h2>
-			<p>
-				 Time consuming process of user registration.
-				 The time and detail needed to input in order to list an item for sale.
-				 Deciding on a proper category and price.
-				</p>
 
 
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram - Ebay" />
