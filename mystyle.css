@@ -37,6 +37,8 @@ article {
 	-webkit-column-width: 120px;
 	-moz-column-width:120px;
 	column-width: 120px;
+	column-rule-style: solid;
+	column-rule-color: black;
 	font-size: 14px;
 	border-style: solid;
 	border-color: black;
