@@ -14,7 +14,7 @@
 			ease of use and convenience with minimal time commitment to sell an item. A
 			busy professional who spends minimal time online that isn't work related.
 			Appreciates a streamlined ability to list, describe and sell in a timely manner. </p>
-		<h2> Frustrations </h2>
+		<h2> User Frustrations </h2>
 			<ul>
 				<li> Time consuming process of user registration. </li>
 				<li> The time and detail needed to input in order to list an item for sale.</li>
@@ -26,7 +26,7 @@
 				In order to sell an item you will pick a category your item will go in.
 				You will then title your item, give it a description, price and add picture(s).
 				</p>
-		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram" />
+		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram - Ebay" />
 		<p>
 		CREATE TABLE profile (<br />
 		profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
