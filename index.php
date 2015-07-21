@@ -12,7 +12,7 @@
 		<h2> Typical User Persona </h2>
 			<p> A middle-aged man looking to sell a cell phone since he recently upgraded. He seeks
 			ease of use and convenience with minimal time commitment to sell his item. He's
-			a busy professional who spends minimal time online that isn't work related and he
+			a busy professional who spends very little time online that isn't work related and he
 			appreciates a streamlined ability to list, describe and sell his phone in a timely manner. </p>
 		<h2> User Frustrations </h2>
 			<ul>
