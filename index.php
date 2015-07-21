@@ -69,7 +69,7 @@
 			); <br />
 
 
-			CREATE TABLE description (<br />
+			CREATE TABLE itemDescription (<br />
 			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
 			description VARCHAR(255) NOT NULL,<br />
 			price VARCHAR(16),<br />
