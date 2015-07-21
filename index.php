@@ -49,7 +49,8 @@
 		UNIQUE(userName),<br />
 		UNIQUE(email),<br />
 		PRIMARY KEY(profileId)<br />
-			<br />
+			); <br />
+
 
 			CREATE TABLE description (<br />
 			profileId INT UNSIGNED AUTO_INCREMENT NOT NULL,<br />
@@ -59,7 +60,9 @@
 			UNIQUE(userName),<br />
 			UNIQUE(email),<br />
 			PRIMARY KEY(profileId)<br />
-			</article>
+			); <br />
+
+		</article>
 
 	</body>
 </html>
