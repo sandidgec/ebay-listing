@@ -14,14 +14,24 @@
 				ease of use and convenience with minimal time commitment to sell his item. He's
 				a busy professional who is comfortable with tech but doesn't work in a tech related field. He spends very
 				little time online that isn't work related and he appreciates a streamlined ability to list,
-				describe and sell his items in a timely manner. </p>
-		<h2> Use Case </h2>
-		<p>
+				describe and sell his items in a timely manner. <br/>
+
 				An average internet user, Tom mostly consumes news and other information on the web via his desktop computer
 				that is an outdated windows machine but he finds it comfortable and more than powerful enough to allow him
 				to do the tasks in front of him. Besides, Tom prefers his tablet when it comes to checking emails and
 				reading web content or ebooks. He seldom posts or otherwise contributes to the web but uses the internet
-				for convenience whenever possible. </p>
+				for convenience whenever possible</p>
+
+		<h2> Use Case Goal: Sell Ipad on eBay </h2>
+				<ul>
+				<li> Navigate to ebay.com</li>
+					<li> Register for new account or login existing account</li>
+					<li>Sell Item  </li>
+					<li> Choose Category of Item</li>
+					<li> Describe Item </li>
+					<li> Price Item</li>
+				</ul>
+				.
 
 		<h2> User Frustrations </h2>
 			<p>
@@ -29,12 +39,8 @@
 				 The time and detail needed to input in order to list an item for sale.
 				 Deciding on a proper category and price.
 				</p>
-		<h2> Steps to Sell an Item on Ebay</h2>
-			<p>
-				 Login/Register for an eBay user account by providing email address, name, and creating a username.
-				In order to sell an item you will pick a category your item will go in.
-				You will then title your item, give it a description, price and add picture(s).
-				</p>
+
+
 		<img class="pad-40" src="images/datauseEbay.svg" alt="Entity Relationship Diagram - Ebay" />
 
 		<article>
