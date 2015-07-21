@@ -37,6 +37,7 @@
 					<li> Choose Category Title</li>
 					<li> Describe Item </li>
 					<li> Price Item</li>
+					<li> List Item</li>
 				</ul>
 				.
 
